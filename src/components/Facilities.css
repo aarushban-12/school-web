@@ -1,0 +1,19 @@
+.facilities {
+    background-color: #f8f9fa;
+  }
+  
+  .facilities h2 {
+    color: #003366;
+    font-weight: bold;
+  }
+  
+  .card-title {
+    color: #0056b3;
+    font-weight: 600;
+  }
+  
+  .card-text {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  

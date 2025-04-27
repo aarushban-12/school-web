@@ -1,0 +1,26 @@
+.careers-section {
+    background-color: #f8f9fa;
+  }
+  
+  .careers-section h2 {
+    color: #003366;
+    font-weight: bold;
+  }
+  
+  .careers-section p {
+    font-size: 1.1rem;
+  }
+  
+  .card-title {
+    color: #0056b3;
+  }
+  
+  .btn-primary {
+    background-color: #003366;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #002244;
+  }
+  

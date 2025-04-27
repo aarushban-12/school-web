@@ -1,0 +1,25 @@
+.activities {
+    background-color: #ffffff;
+  }
+  
+  .activities h2 {
+    color: #003366;
+    font-weight: bold;
+  }
+  
+  .activity-card {
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+  }
+  
+  .activity-card:hover {
+    transform: translateY(-5px);
+    background-color: #e9ecef;
+  }
+  
+  .activity-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  

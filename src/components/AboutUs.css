@@ -1,0 +1,6 @@
+.about-header {
+    background: linear-gradient(rgba(0, 0, 100, 0.4), rgba(0, 0, 100, 0.4)),
+                url('https://images.unsplash.com/photo-1588072432836-e10032774350') no-repeat center center/cover;
+    height: 60vh;
+  }
+  

@@ -1,0 +1,16 @@
+.hero {
+    background: linear-gradient(rgba(0, 0, 100, 0.4), rgba(0, 0, 100, 0.4)),
+                url('https://images.unsplash.com/photo-1571260899304-425eee4c7efc') no-repeat center center/cover;
+    height: 70vh;
+  }
+  
+  .section-title {
+    margin-bottom: 30px;
+    color: #003366;
+  }
+  
+  .footer {
+    background-color: #003366;
+    padding: 15px 0;
+  }
+  

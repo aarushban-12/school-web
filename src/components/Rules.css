@@ -1,0 +1,25 @@
+.rules-section {
+    background-color: #f8f9fa;
+  }
+  
+  .rules-section h2 {
+    color: #003366;
+    font-weight: bold;
+  }
+  
+  .list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #e9ecef;
+  }
+  
+  .list-group-item h5 {
+    color: #0056b3;
+  }
+  

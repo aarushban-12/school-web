@@ -1,0 +1,13 @@
+.principal-message {
+    background-color: #f8f9fa;
+  }
+  
+  .principal-message h2 {
+    color: #003366;
+  }
+  
+  .principal-message p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+  }
+  

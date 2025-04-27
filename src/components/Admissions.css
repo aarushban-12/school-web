@@ -1,0 +1,27 @@
+.admissions-section {
+    background-color: #ffffff;
+  }
+  
+  .admissions-section h2 {
+    color: #003366;
+    font-weight: bold;
+  }
+  
+  .admissions-section p {
+    font-size: 1.1rem;
+  }
+  
+  .admissions-card {
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+  }
+  
+  .admissions-card:hover {
+    background-color: #e9ecef;
+    transform: translateY(-5px);
+  }
+  
+  .admissions-info h4 {
+    color: #0056b3;
+  }
+  
